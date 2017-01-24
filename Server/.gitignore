@@ -1,1 +1,12 @@
-node_modules/
+node_modules
+.tmp
+.sass-cache
+.DS_Store
+bower_components
+app/gui/lib
+app/gui/node_modules
+cache
+build
+app/gui/static.js
+app/static/style/style.css
+app/static/components
